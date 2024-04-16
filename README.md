@@ -1,5 +1,6 @@
 # ADRUwAMS: an Adaptive Dual Residual U-Net with Attention Gate and Multiscale Spatial Attention Mechanisms for Brain Tumor Segmentation
-<img width="434" alt="presentation_results" src="https://github.com/myaghoubisuraki/ADRUwAMS/assets/137851429/e0955fe5-00e6-4532-aa9c-c27add2eaaba">
+<img width="434" alt="presentation_results" src="https://github.com/myaghoubisuraki/ADRUwAMS/assets/137851429/65d5e4e9-18fa-45b0-8521-bf815d3620a5">
+
 
 __Description__
 
@@ -18,7 +19,8 @@ The BraTS (Brain Tumor Segmentation) 2020 dataset is used for training. Due to a
 
 
 # Model Architecture
-<img width="974" alt="proposedmethod5" src="https://github.com/myaghoubisuraki/ADRUwAMS/assets/137851429/41450fd5-61cc-4741-b47d-54bc15d566b8">
+<img width="974" alt="proposedmethod5" src="https://github.com/myaghoubisuraki/ADRUwAMS/assets/137851429/317057e3-31ff-4e10-8607-79465287812e">
+
 
 
 # Usage Guidance
