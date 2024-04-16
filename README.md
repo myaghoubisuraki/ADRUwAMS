@@ -54,19 +54,8 @@ python main.py --model ADRUwAMS --pretrained pretrained_model.pth
 ```
 
 __Running the Training Script on Kaggle:__
-If you wish to use the pretrained weights, it's highly recommended to run the script on Kaggle. The model was trained in an environment that provides the benefits of dual-GPU support, which facilitates efficient training.
+If you wish to use the pretrained weights, it's recommended to run the script on Kaggle. The model was trained in an environment that provides the benefits of multi-GPU support, which facilitates efficient training.
 
-__Setting up on Kaggle:__
-If you don't have a Kaggle account, create one.
-* Start a new notebook.
-* Uploading Pre-trained Weights:
-* Adding Dataset:
-  * Add the "BraTS_2020_Fixed_355" dataset to your Kaggle notebook from the Kaggle dataset repository.
-* Integrating and Running the Script:
-* Copy the script/code into your Kaggle notebook.
-  * Modify the code to set the parameters directly, as the Kaggle notebook format doesn't support command-line arguments.
-
-Note: Always ensure that your training environment, whether local or on Kaggle, has all the necessary dependencies installed.
 
 # Citation
 ```
