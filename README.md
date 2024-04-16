@@ -69,8 +69,10 @@ If you don't have a Kaggle account, create one.
 Note: Always ensure that your training environment, whether local or on Kaggle, has all the necessary dependencies installed.
 
 # Citation
+```
 The paper is submitted to the Diagnostics Journal (https://www.mdpi.com/journal/diagnostics), and it is under review.
 @{Yaghoubi Suraki, M.; Hernandez-Castillo, C. ADRUwAMS: an Adaptive Dual Residual U-Net with Attention Gate and Multiscale Spatial Attention Mechanisms for Brain Tumor Segmentation}
+```
 
 # Acknowledgments
 We acknowledge the [organizers of the BraTS dataset](https://www.med.upenn.edu/cbica/brats2020/data.html) for providing the data for this project and the contributors of the BraTS_2020_Fixed_355 dataset on Kaggle for their valuable correction. The dataloader code is inspired by the [BraTS20_3dUnet_3dAutoEncoder](https://www.kaggle.com/code/polomarco/brats20-3dunet-3dautoencoder/notebook) on Kaggle.
