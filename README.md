@@ -1,4 +1,4 @@
-# ADRUwAMS: an Adaptive Dual Residual U-Net with Attention Gate and Multiscale Spatial Attention Mechanisms for Brain Tumor Segmentation
+# Adaptive Dual Residual U-Net with Attention Gate and Multiscale Spatial Attention Mechanisms (ADRUwAMS)
 <img width="434" alt="presentation_results" src="https://github.com/myaghoubisuraki/ADRUwAMS/assets/137851429/65d5e4e9-18fa-45b0-8521-bf815d3620a5">
 
 
