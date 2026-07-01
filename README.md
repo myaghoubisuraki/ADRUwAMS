@@ -59,8 +59,7 @@ If you wish to use the pretrained weights, it's recommended to run the script on
 
 # Citation
 ```
-The paper is submitted to the Diagnostics Journal (https://www.mdpi.com/journal/diagnostics), and it is under review.
-@{Yaghoubi Suraki, M.; Hernandez-Castillo, C. ADRUwAMS: an Adaptive Dual Residual U-Net with Attention Gate and Multiscale Spatial Attention Mechanisms for Brain Tumor Segmentation}
+M. Yaghoubi Suraki, "Adaptive Dual Residual U-Net with Attention Gate and Multiscale Spatial Attention Mechanisms (ADRUwAMS)," arXiv:2604.08893, Apr. 2026.
 ```
 
 # Acknowledgments
